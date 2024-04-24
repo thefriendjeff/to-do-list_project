@@ -11,20 +11,20 @@ function App() {
   const [todos, setTodos] = useState([
     {
       id: 1,
-      text: "Criar funcionalidade x no sistema",
-      catogory: "trabalho",
+      text: "",
+      catogory: "",
       isCompleted: false,
     },
     {
       id: 2,
-      text: "Ir para academia",
-      catogory: "pessoal",
+      text: "",
+      catogory: "Trabalho",
       isCompleted: false,
     },
     {
       id: 3,
-      text: "Esatudar react",
-      catogory: "estudos",
+      text: "",
+      catogory: "",
       isCompleted: false,
     },
   ])
